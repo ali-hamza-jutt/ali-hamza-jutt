@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-## 👋 Hi, I'm [Your Name]!
+## 👋 Hi, I'm Ali Hamza!
 
 I'm a passionate full-stack web developer with a strong foundation in both frontend and backend technologies. I love creating interactive and dynamic web applications that provide a seamless user experience.
 
