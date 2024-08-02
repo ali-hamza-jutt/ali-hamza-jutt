@@ -18,24 +18,19 @@ I'm a passionate full-stack web developer with a strong foundation in both front
 
 ## 🌟 Notable Projects
 
-- **Pinterest Clone** (05/2024 - Present)
+- **Pinterest Landing Page** (05/2024 - Present)
 - **Shoe Ecommerce Store** (01/2024 - 02/2024)
 - **Job Board** (07/2023 - 11/2023)
 
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/alihamza7811)
+- [Portfolio](https://alihamzajutt.vercel.app)
 
 ## 📫 Get in Touch
 
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi!
 
----
 
-### 📜 Latest Post
-
-I am thrilled to share that I have been offered an internship from Software Synergy Solutions to join their team as a Web Development Intern. This is an incredible opportunity for me to learn, grow, and contribute to innovative projects alongside a talented and supportive team.
-
----
 
 Thanks for visiting my profile!
