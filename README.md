@@ -1,4 +1,4 @@
-<img src="https://github.com/MoizHaider/MoizHaider/blob/master/topImage.png" />
+<img src=" https://github.com/MoizHaider/MoizHaider/blob/master/ali-hamza.jpg " />
 
 <br/>
 
@@ -32,14 +32,6 @@
 
 </td><td valign="top" width="33%">
 
-### Designing  
-<div align="center">  
-<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/design/icons8-blender-100.png" alt="Blender" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/design/icons8-figma-144.png" alt="Figma" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/design/icons8-illustrator-144.png" alt="Illustrator" height="50" />&nbsp;&nbsp;
-<img src="https://github.com/MoizHaider/MoizHaider/blob/master/skillIcons/design/icons8-photoshop-144.png" alt="Photoshop" height="50" />  
-</div>
-
 </td></tr></table>  
 
 <br/>  
@@ -47,9 +39,9 @@
 ## GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/MoizHaider">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoizHaider&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoizHaider&layout=compact&theme=algolia&include_all_commits=true&count_private=true&langs_count=8"/>
+<a href="https://github.com/ ali-hamza-jutt ">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ali-hamza-jutt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username= ali-hamza-jutt&layout=compact&theme=algolia&include_all_commits=true&count_private=true&langs_count=8"/>
 </a>
 </p> 
 
@@ -57,21 +49,11 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://moizhaider-dev.vercel.app/" target="_blank">
+<a href=" https://alihamzajutt.vercel.app/ " target="_blank">
 <img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/portfolio.png" width = "155px" height = "38px" alt=Portfolio style="margin-bottom: 5px;" />
 </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=61559539856542" target="_blank">
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/facebook.png" width = "155px" height = "38px"  alt=Facebook style="margin-bottom: 5px;" />
-</a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/moiz_haider.dev/" target="_blank">
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/instagram.png" width = "155px" height = "38px"  alt=Instagram style="margin-bottom: 5px;" />
-</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/lin-yo-an-51318026" target="_blank">
-<img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/twitter.png" width = "155px" height = "38px"  alt=Twitter style="margin-bottom: 5px;" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/moiz-haider-dev/" target="_blank">
+<a href=" https://www.linkedin.com/in/alihamza7811 " target="_blank">
 <img src="https://github.com/MoizHaider/MoizHaider/blob/main/socialLinks/linkedin.png" width = "155px" height = "38px"  alt=linkedin style="margin-bottom: 5px;" />
 </a>&nbsp;&nbsp;
 </div>  
-
 <br/>
