@@ -1,31 +1,31 @@
-<!-- Banner -->
+<!-- Typing Animation (clean dev style) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ali%20Hamza&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h2 align="center">🚀 Full Stack Developer | Frontend Focused</h2>
-
-<p align="center">
-  Passionate about building modern, scalable, and user-centric web applications.
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00ADB5&center=true&vCenter=true&width=600&lines=Hi+I'm+Ali+Hamza;Full+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node+%7C+PostgreSQL" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💼 2+ years of experience in MERN/PERN stack  
-- 🎯 Strong focus on **Frontend Development (React, UI/UX, Performance)**  
-- ⚡ Love building **fast, scalable & clean architecture apps**  
-- ☁️ Experience with **AWS, GCP & CI/CD pipelines**  
-- 🧠 Always learning & improving  
+- 💼 Full Stack Developer with 2+ years of experience  
+- ⚙️ Building scalable systems using **Node.js, Express, PostgreSQL & MongoDB**  
+- 🎨 Strong experience in **React, UI development & state management**  
+- ☁️ Worked with **AWS EC2, GCP & CI/CD pipelines (GitHub Actions)**  
+- 🔗 Experience with **APIs, WebSockets & third-party integrations**  
+- 🧠 Focused on **clean architecture & performance optimization**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### ⚡ Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+
 ### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,tailwind,nextjs" />
 </p>
 
 ### ⚙️ Backend
@@ -40,34 +40,34 @@
 
 ### ☁️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,githubactions,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,linux" />
 </p>
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Build
 
-- 🎯 Build **pixel-perfect UI** from design (Figma → Code)
-- 🔁 Create **reusable & scalable components**
-- ⚡ Optimize performance & loading speed
-- 🔗 Integrate APIs & real-time systems (WebSockets)
-- 🏗️ Design clean backend architectures
+- 🔹 Scalable backend architectures & REST APIs  
+- 🔹 Real-time systems using WebSockets  
+- 🔹 Responsive & reusable frontend components  
+- 🔹 CI/CD pipelines & production deployments  
+- 🔹 Third-party integrations (payments, delivery APIs)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-hamza-jutt&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hamza-jutt&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hamza-jutt&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hamza-jutt&layout=compact&theme=github_dark&hide_border=true" height="180em"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 📈 Contribution Graph (Pipeline-like Visual)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ali-hamza-jutt&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-hamza-jutt&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -76,21 +76,15 @@
 
 <p align="center">
   <a href="https://alihamzajutt.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alihamza7811">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Developer Mindset
 
-> I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-</p>
+> I focus on building systems that are scalable, maintainable, and solve real-world problems — not just writing code.
