@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 Full Stack Developer with 2+ years of experience  
+- 💼 Full Stack Developer with 3+ years of experience  
 - ⚙️ Building scalable systems using **Node.js, Express, PostgreSQL & MongoDB**  
 - 🎨 Strong experience in **React, UI development & state management**  
 - ☁️ Worked with **AWS EC2, GCP & CI/CD pipelines (GitHub Actions)**  
