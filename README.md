@@ -1,11 +1,11 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:12303a,100:39d0d8&height=190&section=header&text=Ali%20Hamza&fontSize=58&fontColor=e6edf3&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Node.js%20%E2%80%A2%20React%20%E2%80%A2%20AI&descAlignY=58&descSize=18" alt="Ali Hamza — Full Stack Engineer" />
+  <img src="./assets/header.svg" width="880" alt="Ali Hamza — Full Stack Engineer" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ali-hamza-jutt">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=39D0D8&center=true&vCenter=true&width=640&lines=I+build+systems+that+survive+production;Real-time+%E2%80%A2+Payments+%E2%80%A2+Queues+%E2%80%A2+Multi-tenant+SaaS;Node.js+%2F+NestJS+%E2%86%94+React+%2F+Next.js;Now+shipping+with+LLMs%2C+RAG+%26+MCP" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=39D0D8&center=true&vCenter=true&width=640&lines=I+build+systems+that+survive+production;Real-time+%E2%80%A2+Payments+%E2%80%A2+Queues+%E2%80%A2+Multi-tenant+SaaS;Node.js+%E2%80%A2+C%23+%2F+.NET+%E2%86%94+React+%2F+Next.js;Now+shipping+with+LLMs%2C+RAG+%26+MCP" alt="Typing intro" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@
 <table align="center">
   <tr>
     <td align="center" width="140"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,graphql,prisma&perline=8" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,cs,dotnet,fastapi,graphql,prisma&perline=8" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
@@ -112,8 +112,4 @@
 <p align="center">
   <b>Open to full-time and contract work — backend, full stack, or AI-integrated products.</b><br/>
   <sub>Lahore, PK · UTC+5 · remote-friendly</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d0d8,50:12303a,100:0d1117&height=110&section=footer" />
 </p>
